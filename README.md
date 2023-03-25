@@ -3,9 +3,9 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. Agent Jane Doe will resolve tickets.<br />
 
-***PLEASE NOTE: This tutorial builds on work done from last tutorial, <a href="https://github.com/uzodinma-okafor/post-install-config">osTicket: Post-Installation Configuration</a>***
+***PLEASE NOTE: This tutorial builds on work done from last tutorial, <a href="https://github.com/uzodinma-okafor/post-install-config">osTicket: Post-Installation Configuration</a>.***
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,7 +24,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Issue Categories Classified by Priority</h2>
+<p>
+In the last tutorial, we created new Help Topics, which are basically categories that different issues fall into. Help Desk Analysts have to resolve a lot tickets daily in a timely manner. This is done by prioritizing certain help topics over others. In this tutorial, for example, Business Critical Outage would be seen as High/Emergency Priority(Top Priority for purpose of this tutorial). Personal Computer Issues would be Medium Priority, Equipment Request would be Normal Priority, and Password Reset would fall under Least Priority.
+</p>
 
 <p>
 <h2>Part 1: Intake</h2>
