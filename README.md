@@ -48,7 +48,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br /><hr>
 
 <p>
-<img src="https://i.imgur.com/jUdIjrj.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/AgExUHh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/h7ST2U7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/YM6ANh7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/4VDwJAI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jUdIjrj.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/AgExUHh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/h7ST2U7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/YM6ANh7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/4VDwJAI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/7jcc9BU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - From the last tutorial, Jane Doe was made a Supreme Admin for her primary Department, System Administrators. Before using Jane Doe's account, give her extended access as a Supreme Admin for the Support Department by going to Admin Panel >> Agents >> Agents >> Click on Jane Doe. From there, click on the Access Tab to make the necessary changes and Save. 
@@ -57,6 +57,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Click on "Normal" in Priority area (top left) and switch it to "High" leaving a note explaing why. (3rd pic down)
 - Click on "Unassigned" in top left area (2nd pic) and assign it to Jane Doe (4th pic down).
 - Click on "Default SLA" in SLA Plan area and change it to SLA-A (5th pic down) and leave a note explaining why.
+- Click on "Support" in the Department and select to have the ticket transfered to "System Administrators" department, where Jane Doe works primarily.
 </p>
 <br /><hr>
 
