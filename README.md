@@ -74,6 +74,7 @@ Ticket #176150 (pic above) is now a Systems Administration ticket with emergency
 <br /><hr>
 
 <p>
+<h2>Part 4: Resolution</h2>
 <img src="https://i.imgur.com/zdvxbgS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/eUHsBLM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
